@@ -2,7 +2,7 @@ build:
   version: "2.0.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related Prod APIs "
+  message: "Welcome to EazyBank accounts related Production APIs "
   contactDetails:
     name: "Smith Ray - Prod"
     email: "smitha@eazybank.com"
